@@ -30,5 +30,3 @@ Next, I integrated an AI language model powered by Google Gemini to act as the a
 
 ### Phase 4: Final Execution and Risk Assessment Output
 With the pipeline stable, I tested the end-to-end workflow by triggering a natural language query in the chat interface. The system successfully executed the tool call, pulled the JSON telemetry data from my local server, and translated those raw findings into a comprehensive, NIST-aligned risk assessment in just about 15 seconds. This demonstrated a fully automated path from raw security data to actionable risk management insights.
-
-> **[ INSERT SCREENSHOT: Final chat output showing the rendered risk analysis ]**
